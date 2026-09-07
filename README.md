@@ -1,6 +1,6 @@
 ![Project Sloth GitHub Project PS-HUD Banner](https://user-images.githubusercontent.com/91661118/170896135-fead50a0-2a4b-432d-8469-038acfb4f2f3.png)
 
-### ps-hud  
+### ps-hud
 Ultra customizable hud featuring a unique and robust settings menu. Change eveything about your experience!
 
 ![Project Sloth Buttons 2](https://user-images.githubusercontent.com/91661118/170895968-c4224105-5c87-4947-af94-8e8bd792f566.png)
